@@ -14,3 +14,5 @@ This will then automatically trigger the browser and open the Home tab, you can 
 
 # References
 * [w3schools Official Site](https://www.w3schools.com/js/js_switch.asp)
+* [165+ JavaScript terms you need to know - opensource.com](https://opensource.com/article/22/9/javascript-glossary)
+* [A JavaScript Glossary for Developers: 70 Key Terms with Examples - Anywhere Club](https://aw.club/global/en/blog/a-javascript-glossary-for-developers-70-key-terms)
